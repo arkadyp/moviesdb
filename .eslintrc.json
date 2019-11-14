@@ -8,6 +8,13 @@
   "rules": {
     "no-console": "off",
     "comma-dangle": "off",
-    "react/jsx-filename-extension": "off"
+    "react/jsx-filename-extension": "off",
+    "no-underscore-dangle": "off",
+    "react/destructuring-assignment": "off",
+    "react/prop-types": "off",
+    "react/no-did-update-set-state": "off",
+    "no-nested-ternary": "off",
+    "import/no-named-as-default": "off",
+    "no-case-declarations": "off"
   }
 }
